@@ -13,6 +13,7 @@ wait_for_volume() {
         printf '.'
         sleep 1
     done
+    sleep 1
     printf '\n'
 }
 
